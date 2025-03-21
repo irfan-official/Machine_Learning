@@ -1,1 +1,1 @@
-# This repository is for my machine learning activiity
+# This repository is for my machine learning activity
